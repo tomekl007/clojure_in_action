@@ -1,10 +1,9 @@
 # clojure_in_action_examples
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to learn that language
 
 ## Usage
 
-FIXME
 
 ## License
 
